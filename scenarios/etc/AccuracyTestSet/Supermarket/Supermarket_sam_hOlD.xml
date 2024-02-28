@@ -1,0 +1,112 @@
+<utility_space> 
+<objective index="0" description="" name="GroceryDomain" type="objective" etype="objective"> 
+<issue index="1" name="Bread type" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Baguette" cost="0.0" evaluation="307"> 
+</item> 
+<item index="2" value="Crackers" cost="0.0" evaluation="83"> 
+</item> 
+<item index="3" value="Croissants" cost="0.0" evaluation="358"> 
+</item> 
+<item index="4" value="Plain bread" cost="0.0" evaluation="396"> 
+</item> 
+</issue> 
+<issue index="2" name="Fruit" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Apples" cost="0.0" evaluation="610"> 
+</item> 
+<item index="2" value="Bananas" cost="0.0" evaluation="251"> 
+</item> 
+<item index="3" value="Cherries" cost="0.0" evaluation="333"> 
+</item> 
+<item index="4" value="Grapes" cost="0.0" evaluation="593"> 
+</item> 
+<item index="5" value="Pears" cost="0.0" evaluation="345"> 
+</item> 
+<item index="6" value="Melons" cost="0.0" evaluation="204"> 
+</item> 
+<item index="7" value="Strawberries" cost="0.0" evaluation="997"> 
+</item> 
+</issue> 
+<issue index="3" name="Snacks" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Chocolate bars" cost="0.0" evaluation="204"> 
+</item> 
+<item index="2" value="Doughnuts" cost="0.0" evaluation="665"> 
+</item> 
+<item index="3" value="Nachos" cost="0.0" evaluation="743"> 
+</item> 
+<item index="4" value="Popcorn" cost="0.0" evaluation="895"> 
+</item> 
+<item index="5" value="Potato Chips" cost="0.0" evaluation="940"> 
+</item> 
+<item index="6" value="Candy" cost="0.0" evaluation="985"> 
+</item> 
+<item index="7" value="Cookies" cost="0.0" evaluation="762"> 
+</item> 
+</issue> 
+<issue index="4" name="Spreads" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Cheese" cost="0.0" evaluation="827"> 
+</item> 
+<item index="2" value="Jam" cost="0.0" evaluation="324"> 
+</item> 
+<item index="3" value="Peanut butter" cost="0.0" evaluation="987"> 
+</item> 
+<item index="4" value="Sandwichspread" cost="0.0" evaluation="927"> 
+</item> 
+<item index="5" value="Chocolate" cost="0.0" evaluation="555"> 
+</item> 
+<item index="6" value="Ham" cost="0.0" evaluation="787"> 
+</item> 
+<item index="7" value="Salami" cost="0.0" evaluation="282"> 
+</item> 
+<item index="8" value="Egg Salad" cost="0.0" evaluation="924"> 
+</item> 
+</issue> 
+<issue index="5" name="Vegetables" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Beans" cost="0.0" evaluation="513"> 
+</item> 
+<item index="2" value="Broccoli" cost="0.0" evaluation="461"> 
+</item> 
+<item index="3" value="Leek" cost="0.0" evaluation="885"> 
+</item> 
+<item index="4" value="Potatoes" cost="0.0" evaluation="526"> 
+</item> 
+<item index="5" value="Spinach" cost="0.0" evaluation="537"> 
+</item> 
+<item index="6" value="Carrots" cost="0.0" evaluation="645"> 
+</item> 
+<item index="7" value="Tomatos" cost="0.0" evaluation="909"> 
+</item> 
+</issue> 
+<issue index="6" name="Drinks" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Energy Drinks" cost="0.0" evaluation="12"> 
+</item> 
+<item index="2" value="Milk" cost="0.0" evaluation="920"> 
+</item> 
+<item index="3" value="Tea" cost="0.0" evaluation="538"> 
+</item> 
+<item index="4" value="Coffee" cost="0.0" evaluation="170"> 
+</item> 
+<item index="5" value="Juice" cost="0.0" evaluation="625"> 
+</item> 
+<item index="6" value="Coca Cola" cost="0.0" evaluation="432"> 
+</item> 
+<item index="7" value="Fanta" cost="0.0" evaluation="929"> 
+</item> 
+<item index="8" value="Beer" cost="0.0" evaluation="251"> 
+</item> 
+<item index="9" value="Wine" cost="0.0" evaluation="593"> 
+</item> 
+</issue> 
+<weight index="1" value="0.003726632925645102"> 
+</weight> 
+<weight index="2" value="0.0"> 
+</weight> 
+<weight index="3" value="0.06234556330534585"> 
+</weight> 
+<weight index="4" value="0.1580852849249933"> 
+</weight> 
+<weight index="5" value="0.28453126843782484"> 
+</weight> 
+<weight index="6" value="0.49171640508112185"> 
+</weight> 
+</objective> 
+</utility_space> 

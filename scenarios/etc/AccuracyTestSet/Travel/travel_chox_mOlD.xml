@@ -1,0 +1,114 @@
+<utility_space> 
+<objective index="0" description="" name="root" type="objective" etype="objective"> 
+<issue index="1" name="Atmosphere" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Cultural heritage" cost="0.0" evaluation="613"> 
+</item> 
+<item index="2" value="Local traditions" cost="0.0" evaluation="414"> 
+</item> 
+<item index="3" value="Political stability" cost="0.0" evaluation="316"> 
+</item> 
+<item index="4" value="Security (personal)" cost="0.0" evaluation="586"> 
+</item> 
+<item index="5" value="Liveliness" cost="0.0" evaluation="340"> 
+</item> 
+<item index="6" value="Turistic activities" cost="0.0" evaluation="663"> 
+</item> 
+<item index="7" value="Hospitality" cost="0.0" evaluation="766"> 
+</item> 
+</issue> 
+<issue index="2" name="Amusement" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Nightlife and entertainment" cost="0.0" evaluation="691"> 
+</item> 
+<item index="2" value="Nightclubs" cost="0.0" evaluation="437"> 
+</item> 
+<item index="3" value="Excursion" cost="0.0" evaluation="944"> 
+</item> 
+<item index="4" value="Casinos" cost="0.0" evaluation="944"> 
+</item> 
+<item index="5" value="Zoo" cost="0.0" evaluation="130"> 
+</item> 
+<item index="6" value="Festivals" cost="0.0" evaluation="164"> 
+</item> 
+<item index="7" value="Amusement park" cost="0.0" evaluation="351"> 
+</item> 
+</issue> 
+<issue index="3" name="Culinary" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Local cuisine" cost="0.0" evaluation="620"> 
+</item> 
+<item index="2" value="Lunch facilities" cost="0.0" evaluation="4"> 
+</item> 
+<item index="3" value="International cuisine" cost="0.0" evaluation="988"> 
+</item> 
+<item index="4" value="Cooking workshops" cost="0.0" evaluation="716"> 
+</item> 
+</issue> 
+<issue index="4" name="Shopping" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Shopping malls" cost="0.0" evaluation="636"> 
+</item> 
+<item index="2" value="Markets" cost="0.0" evaluation="338"> 
+</item> 
+<item index="3" value="Streets" cost="0.0" evaluation="775"> 
+</item> 
+<item index="4" value="Small boutiques" cost="0.0" evaluation="881"> 
+</item> 
+</issue> 
+<issue index="5" name="Culture" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Museum" cost="0.0" evaluation="915"> 
+</item> 
+<item index="2" value="Music hall" cost="0.0" evaluation="154"> 
+</item> 
+<item index="3" value="Theater" cost="0.0" evaluation="365"> 
+</item> 
+<item index="4" value="Art gallery" cost="0.0" evaluation="455"> 
+</item> 
+<item index="5" value="Cinema" cost="0.0" evaluation="126"> 
+</item> 
+<item index="6" value="Congress center" cost="0.0" evaluation="575"> 
+</item> 
+</issue> 
+<issue index="6" name="Sport" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Bike tours" cost="0.0" evaluation="827"> 
+</item> 
+<item index="2" value="Hiking" cost="0.0" evaluation="578"> 
+</item> 
+<item index="3" value="Indoor activities" cost="0.0" evaluation="493"> 
+</item> 
+<item index="4" value="Outdoor activities" cost="0.0" evaluation="966"> 
+</item> 
+<item index="5" value="Adventure" cost="0.0" evaluation="936"> 
+</item> 
+</issue> 
+<issue index="7" name="Environment" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="Parks and Gardens" cost="0.0" evaluation="783"> 
+</item> 
+<item index="2" value="Square" cost="0.0" evaluation="178"> 
+</item> 
+<item index="3" value="Historical places" cost="0.0" evaluation="104"> 
+</item> 
+<item index="4" value="See, river, etc." cost="0.0" evaluation="835"> 
+</item> 
+<item index="5" value="Monuments" cost="0.0" evaluation="336"> 
+</item> 
+<item index="6" value="Special streets" cost="0.0" evaluation="103"> 
+</item> 
+<item index="7" value="Palace" cost="0.0" evaluation="338"> 
+</item> 
+<item index="8" value="Landscape and nature" cost="0.0" evaluation="208"> 
+</item> 
+</issue> 
+<weight index="1" value="0.25721777441465077"> 
+</weight> 
+<weight index="2" value="0.06479359899145593"> 
+</weight> 
+<weight index="3" value="0.3135441787023301"> 
+</weight> 
+<weight index="4" value="0.08607559250827579"> 
+</weight> 
+<weight index="5" value="0.04898465362847845"> 
+</weight> 
+<weight index="6" value="0.2486646066729139"> 
+</weight> 
+<weight index="7" value="0.0"> 
+</weight> 
+</objective> 
+</utility_space> 

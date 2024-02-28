@@ -1,0 +1,88 @@
+<utility_space> 
+<objective index="1" description="" name="Car" type="objective" etype="objective"> 
+<issue index="2" name="CD player" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="509"> 
+</item> 
+<item index="2" value="fairly good" evaluation="580"> 
+</item> 
+<item index="3" value="standard" evaluation="91"> 
+</item> 
+<item index="4" value="meager" evaluation="98"> 
+</item> 
+<item index="5" value="none" evaluation="843"> 
+</item> 
+</issue> 
+<issue index="3" name="Extra speakers" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="0"> 
+</item> 
+<item index="2" value="fairly good" evaluation="80"> 
+</item> 
+<item index="3" value="standard" evaluation="96"> 
+</item> 
+<item index="4" value="meager" evaluation="416"> 
+</item> 
+<item index="5" value="none" evaluation="945"> 
+</item> 
+</issue> 
+<issue index="4" name="Airconditioning" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="257"> 
+</item> 
+<item index="2" value="fairly good" evaluation="80"> 
+</item> 
+<item index="3" value="standard" evaluation="626"> 
+</item> 
+<item index="4" value="meager" evaluation="99"> 
+</item> 
+<item index="5" value="none" evaluation="649"> 
+</item> 
+</issue> 
+<issue index="5" name="Tow hedge" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="0"> 
+</item> 
+<item index="2" value="fairly good" evaluation="508"> 
+</item> 
+<item index="3" value="standard" evaluation="411"> 
+</item> 
+<item index="4" value="meager" evaluation="98"> 
+</item> 
+<item index="5" value="none" evaluation="100"> 
+</item> 
+</issue> 
+<issue index="6" name="Tow hedge2" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="0"> 
+</item> 
+<item index="2" value="fairly good" evaluation="80"> 
+</item> 
+<item index="3" value="standard" evaluation="624"> 
+</item> 
+<item index="4" value="meager" evaluation="249"> 
+</item> 
+<item index="5" value="none" evaluation="579"> 
+</item> 
+</issue> 
+<issue index="7" name="Tow hedge3" vtype="discrete" type="discrete" etype="discrete"> 
+<item index="1" value="good" evaluation="0"> 
+</item> 
+<item index="2" value="fairly good" evaluation="78"> 
+</item> 
+<item index="3" value="standard" evaluation="90"> 
+</item> 
+<item index="4" value="meager" evaluation="847"> 
+</item> 
+<item index="5" value="none" evaluation="100"> 
+</item> 
+</issue> 
+<weight index="2" value="0.19628452829023957"> 
+</weight> 
+<weight index="3" value="0.16724585877100245"> 
+</weight> 
+<weight index="4" value="0.10778806770707877"> 
+</weight> 
+<weight index="5" value="0.03064054643893352"> 
+</weight> 
+<weight index="6" value="0.3095886390718122"> 
+</weight> 
+<weight index="7" value="0.18845235972093338"> 
+</weight> 
+</objective> 
+</utility_space> 
