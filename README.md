@@ -5,4 +5,4 @@ For negotiation domian files used in this paper, please refer to "T. Baarslag, M
 For the distribution frequency model, please refer to "Tunalı, O., Aydoğan, R., Sanchez-Anguix, V. (2017). Rethinking Frequency Opponent Modeling in Automated Negotiation. In: An, B., Bazzan, A., Leite, J., Villata, S., van der Torre, L. (eds) PRIMA 2017: Principles and Practice of Multi-Agent Systems. PRIMA 2017. Lecture Notes in Computer Science(), vol 10621. Springer, Cham. https://doi.org/10.1007/978-3-319-69131-2_16" and contact Dr. Reyhan
 AYDOĞAN (reyhan.aydogan@ozyegin.edu.tr) for more details.
 
-For the Smith Frequency model, please refer to the tutorial of ANL 2023 "https://github.com/brenting/ANL-2023-example-agent".
+For the Smith Frequency model, please refer to the tutorial of ANL 2023 https://github.com/brenting/ANL-2023-example-agent.
